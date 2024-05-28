@@ -29,7 +29,7 @@ apk add bottom
 apk add neofetch
 apk add htop
 apk add nano
-apk add gcc
+# apk add gcc
 
 # Clear apk cache
 rm -rf /var/cache/apk/*
