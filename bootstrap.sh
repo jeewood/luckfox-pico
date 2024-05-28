@@ -29,7 +29,9 @@ apk add bottom
 apk add neofetch
 apk add htop
 apk add nano
-# apk add gcc
+apk add lua
+apk add python3
+apk add gcc
 
 # Clear apk cache
 rm -rf /var/cache/apk/*
