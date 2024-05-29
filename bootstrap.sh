@@ -31,7 +31,8 @@ apk add htop
 apk add nano
 apk add lua
 apk add python3
-apk add build-base
+apk add py-pip
+# apk add build-base
 apk add git
 
 
