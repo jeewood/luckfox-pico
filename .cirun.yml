@@ -6,7 +6,8 @@ runners:
     region: "us-west-2"
     instance_type: "m7a.2xlarge"
     # Ubuntu-24.04, 64GB, us-west-2
-    machine_image: "ami-02e8110329444ee3b"
+    # machine_image: "ami-02e8110329444ee3b"
+    machine_image: "ubuntu-minimal-2004-lts"
     preemptible: false
     labels:
       - "cirun-aws-amd64"
