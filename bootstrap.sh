@@ -30,7 +30,7 @@ apk add neofetch
 apk add htop
 apk add nano
 apk add lua
-apk add python3
+# apk add python3
 apk add build-base
 
 # Clear apk cache
