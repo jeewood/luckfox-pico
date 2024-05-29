@@ -31,7 +31,7 @@ apk add htop
 apk add nano
 apk add lua
 apk add python3
-apk add gcc
+apk add build-base
 
 # Clear apk cache
 rm -rf /var/cache/apk/*
