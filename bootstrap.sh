@@ -16,7 +16,7 @@ apk add agetty
 apk add shadow
 apk add bash bash-completion
 chsh -s /bin/bash
-echo -e "j11w00d\nj11w00d" | passwd
+echo -e "luckfox\nluckfox" | passwd
 apk del -r shadow
 
 # Install SSH
@@ -30,8 +30,9 @@ apk add neofetch
 apk add htop
 apk add nano
 apk add lua
-# apk add python3
+apk add python3
 apk add build-base
+apk add git
 
 # Clear apk cache
 rm -rf /var/cache/apk/*
